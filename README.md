@@ -15,3 +15,6 @@ There are 4 main steps to reach the objective:
 ## In Processing:
 - 3rd - These packets need to be recieved in Processing (and decode, decompress, etc) to be used in the program
 - 4th - Finally this data recieved will be displayed in a x and y graphic where the x value is the value captured by the 1st microphone and the y value is the value of the 2nd microphone
+
+# Demo
+There's a simple demo to demonstrate the objective of the project. It's only in Processing and made of 3 files (Plot, Line and Point) where Plot is the main file. The displayed data can be changed by moving the cursor horizontaly.
