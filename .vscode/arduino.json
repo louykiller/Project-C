@@ -1,0 +1,6 @@
+{
+    "board": "arduino:samd:nano_33_iot",
+    "programmer": "arduino:atmel_ice",
+    "port": "COM3",
+    "sketch": "test_version_0.1\\publish_data_nonNinaVersion.ino"
+}
